@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSinglecallRemoting\ComponenteSAOSC\bin\Debug\ComponenteSAOSC.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSinglecallRemoting\ComponenteSAOSC\bin\Debug\ComponenteSAOSC.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSinglecallRemoting\ComponenteSAOSC\obj\Debug\ComponenteSAOSC.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSinglecallRemoting\ComponenteSAOSC\obj\Debug\ComponenteSAOSC.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSinglecallRemoting\ComponenteSAOSC\obj\Debug\ComponenteSAOSC.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSinglecallRemoting\ComponenteSAOSC\obj\Debug\ComponenteSAOSC.pdb

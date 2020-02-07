@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\bin\Debug\ClienteSAO.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\bin\Debug\ClienteSAO.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\bin\Debug\ClienteSAO.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\bin\Debug\ComponenteSAOST.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\bin\Debug\ComponenteSAOST.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\obj\Debug\ClienteSAO.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\obj\Debug\ClienteSAO.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\obj\Debug\ClienteSAO.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\obj\Debug\ClienteSAO.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\SAOSingletonRemoting\ClienteSOA\obj\Debug\ClienteSAO.pdb

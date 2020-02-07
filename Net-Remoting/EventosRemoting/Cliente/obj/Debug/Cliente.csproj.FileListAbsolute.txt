@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\bin\Debug\Componente.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\bin\Debug\Componente.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\obj\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\EventosRemoting\Cliente\obj\Debug\Cliente.pdb

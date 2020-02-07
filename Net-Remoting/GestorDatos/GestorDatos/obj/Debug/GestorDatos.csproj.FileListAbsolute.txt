@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\GestorDatos\bin\Debug\GestorDatos.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\GestorDatos\bin\Debug\GestorDatos.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\GestorDatos\obj\Debug\GestorDatos.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\GestorDatos\obj\Debug\GestorDatos.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\GestorDatos\obj\Debug\GestorDatos.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\GestorDatos\obj\Debug\GestorDatos.pdb

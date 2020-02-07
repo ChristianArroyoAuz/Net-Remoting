@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ComponenteCAO\bin\Debug\ComponenteCAO.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ComponenteCAO\bin\Debug\ComponenteCAO.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ComponenteCAO\obj\Debug\ComponenteCAO.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ComponenteCAO\obj\Debug\ComponenteCAO.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ComponenteCAO\obj\Debug\ComponenteCAO.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ComponenteCAO\obj\Debug\ComponenteCAO.pdb

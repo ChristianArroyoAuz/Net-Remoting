@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\ObjetoMovilRemoting\Componente\bin\Debug\Componente.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\ObjetoMovilRemoting\Componente\bin\Debug\Componente.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\ObjetoMovilRemoting\Componente\obj\Debug\Componente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\ObjetoMovilRemoting\Componente\obj\Debug\Componente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\ObjetoMovilRemoting\Componente\obj\Debug\Componente.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\ObjetoMovilRemoting\Componente\obj\Debug\Componente.pdb

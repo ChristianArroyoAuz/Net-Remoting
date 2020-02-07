@@ -1,0 +1,13 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\bin\Debug\ClienteCorre.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\bin\Debug\ClienteCorre.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\bin\Debug\ClienteCorre.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.ClienteCorre.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteCorre\obj\Debug\ClienteCorre.pdb

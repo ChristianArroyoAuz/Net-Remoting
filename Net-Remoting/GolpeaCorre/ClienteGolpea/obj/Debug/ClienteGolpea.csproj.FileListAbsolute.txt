@@ -1,0 +1,13 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\bin\Debug\ClienteGolpea.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\bin\Debug\ClienteGolpea.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\bin\Debug\ClienteGolpea.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.ClienteGolpea.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GolpeaCorre\ClienteGolpea\obj\Debug\ClienteGolpea.pdb

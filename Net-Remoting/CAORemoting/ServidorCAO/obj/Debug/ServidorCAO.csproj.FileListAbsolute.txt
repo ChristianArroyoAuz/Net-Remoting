@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\bin\Debug\ServidorCAO.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\bin\Debug\ServidorCAO.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\bin\Debug\ServidorCAO.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\bin\Debug\ComponenteCAO.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\bin\Debug\ComponenteCAO.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetoRemoto", "ObjetoRemoto\ObjetoRemoto.csproj", "{C2CC6C4F-E650-4670-BA0C-0D78E0B59915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{11D48D5B-A0F3-44EF-9761-F2389969C81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{0D9BC868-9BD8-4952-876D-F9104EE63D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CC6C4F-E650-4670-BA0C-0D78E0B59915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CC6C4F-E650-4670-BA0C-0D78E0B59915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CC6C4F-E650-4670-BA0C-0D78E0B59915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CC6C4F-E650-4670-BA0C-0D78E0B59915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D48D5B-A0F3-44EF-9761-F2389969C81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D48D5B-A0F3-44EF-9761-F2389969C81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D48D5B-A0F3-44EF-9761-F2389969C81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D48D5B-A0F3-44EF-9761-F2389969C81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9BC868-9BD8-4952-876D-F9104EE63D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9BC868-9BD8-4952-876D-F9104EE63D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9BC868-9BD8-4952-876D-F9104EE63D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9BC868-9BD8-4952-876D-F9104EE63D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

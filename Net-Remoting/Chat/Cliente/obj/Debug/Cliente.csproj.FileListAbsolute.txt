@@ -1,0 +1,14 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.Chat.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\Chat\Cliente\obj\Debug\Cliente.pdb

@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\bin\Debug\GestorDatos.dll
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\bin\Debug\GestorDatos.pdb
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\obj\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Net-Remoting\GestorDatos\Cliente\obj\Debug\Cliente.pdb
